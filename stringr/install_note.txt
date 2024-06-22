@@ -1,5 +1,0 @@
--- install tidyverse
-install.packages("tidyverse")
-
--- install stringr
-install.packages("stringr")
